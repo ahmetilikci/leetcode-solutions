@@ -10,6 +10,7 @@ Each solution contains only the clean `Solution` class with time and space compl
 
 | # | Problem | Difficulty | Topic | Time | Space |
 |---|---------|------------|-------|------|-------|
+| 1 | [Two Sum](./TwoSum/TwoSum.cs) | Easy | Hash Map | O(n) | O(n) |
 | 9 | [Palindrome Number](./PalindromeNumber/PalindromeNumber.cs) | Easy | Math | O(log n) | O(1) |
 | 13 | [Roman to Integer](./RomanToInteger/RomanToInteger.cs) | Easy | Hash Map | O(n) | O(1) |
 | 14 | [Longest Common Prefix](./LongestCommonPrefix/LongestCommonPrefix.cs) | Easy | String | O(n·m) | O(1) |
