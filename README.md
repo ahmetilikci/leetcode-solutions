@@ -21,3 +21,4 @@ Each solution contains only the clean `Solution` class with time and space compl
 | 58 | [Length of Last Word](./LengthOfLastWord/LengthOfLastWord.cs) | Easy | String | O(n) | O(1) |
 | 121 | [Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cs) | Easy | Array | O(n) | O(1) |
 | 122 | [Best Time to Buy and Sell Stock II](./BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cs) | Medium | Array | O(n) | O(1) |
+| 217 | [Contains Duplicate](./ContainsDuplicate/ContainsDuplicate.cs) | Easy | Hash Set | O(n) | O(n) |
