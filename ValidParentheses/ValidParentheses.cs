@@ -1,4 +1,8 @@
+using System;
 using System.Collections.Generic;
+
+// LeetCode #20 - Valid Parentheses
+// Time: O(n) | Space: O(n)
 
 public class Solution {
     public bool IsValid(string s) {
