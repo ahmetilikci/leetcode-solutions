@@ -18,6 +18,7 @@ Each solution contains only the clean `Solution` class with time and space compl
 | 26 | [Remove Duplicates from Sorted Array](./RemoveDuplicates/RemoveDuplicates.cs) | Easy | Two Pointers | O(n) | O(1) |
 | 27 | [Remove Element](./RemoveElement/RemoveElement.cs) | Easy | Two Pointers | O(n) | O(1) |
 | 35 | [Search Insert Position](./SearchInsertPosition/SearchInsertPosition.cs) | Easy | Binary Search | O(log n) | O(1) |
+| 49 | [Group Anagrams](./GroupAnagrams/GroupAnagrams.cs) | Medium | Hash Map | O(n * k log k) | O(n * k) |
 | 58 | [Length of Last Word](./LengthOfLastWord/LengthOfLastWord.cs) | Easy | String | O(n) | O(1) |
 | 66 | [Plus One](./PlusOne/PlusOne.cs) | Easy | Math / Array | O(n) | O(1) |
 | 121 | [Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cs) | Easy | Array | O(n) | O(1) |
