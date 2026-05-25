@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 // LeetCode #383 - Ransom Note
-// Time: O(m) space optimization with Early Termination
+// Time: O(m + n) worst case, O(m + k) best case (Early Termination)
 // Space: O(m) where m is length of ransomNote
 
 public class Solution {
