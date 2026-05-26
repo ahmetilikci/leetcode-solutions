@@ -24,6 +24,7 @@ Each solution contains only the clean `Solution` class with time and space compl
 | 121 | [Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cs) | Easy | Array | O(n) | O(1) |
 | 122 | [Best Time to Buy and Sell Stock II](./BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cs) | Medium | Array | O(n) | O(1) |
 | 125 | [Valid Palindrome](./ValidPalindrome/ValidPalindrome.cs) | Easy | Two Pointers | O(n) | O(1) |
+| 202 | [Happy Number](./HappyNumber/HappyNumber.cs) | Easy | Hash Set | O(log n) | O(log n) |
 | 217 | [Contains Duplicate](./ContainsDuplicate/ContainsDuplicate.cs) | Easy | Hash Set | O(n) | O(n) |
 | 242 | [Valid Anagram](./ValidAnagram/ValidAnagram.cs) | Easy | Hash Map | O(n) | O(n) |
 | 383 | [Ransom Note](./RansomNote/RansomNote.cs) | Easy | Hash Map | O(m + n) | O(m) |
